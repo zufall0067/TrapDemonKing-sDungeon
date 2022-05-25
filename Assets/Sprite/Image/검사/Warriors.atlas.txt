@@ -1,0 +1,132 @@
+
+Warriors.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARM_L
+  rotate: false
+  xy: 372, 32
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+ARM_R
+  rotate: false
+  xy: 470, 107
+  size: 40, 52
+  orig: 40, 52
+  offset: 0, 0
+  index: -1
+EYE_01
+  rotate: false
+  xy: 182, 6
+  size: 58, 48
+  orig: 58, 48
+  offset: 0, 0
+  index: -1
+EYE_02
+  rotate: false
+  xy: 254, 45
+  size: 57, 46
+  orig: 57, 46
+  offset: 0, 0
+  index: -1
+EYE_03
+  rotate: false
+  xy: 313, 45
+  size: 57, 46
+  orig: 57, 46
+  offset: 0, 0
+  index: -1
+EYE_04
+  rotate: false
+  xy: 394, 78
+  size: 65, 43
+  orig: 65, 43
+  offset: 0, 0
+  index: -1
+FISH
+  rotate: false
+  xy: 190, 93
+  size: 113, 81
+  orig: 113, 81
+  offset: 0, 0
+  index: -1
+HAIR
+  rotate: true
+  xy: 305, 93
+  size: 81, 87
+  orig: 81, 87
+  offset: 0, 0
+  index: -1
+LEG_L
+  rotate: false
+  xy: 344, 3
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+LEG_R
+  rotate: true
+  xy: 190, 56
+  size: 35, 62
+  orig: 35, 62
+  offset: 0, 0
+  index: -1
+Shield
+  rotate: true
+  xy: 395, 161
+  size: 78, 89
+  orig: 78, 89
+  offset: 0, 0
+  index: -1
+arrow
+  rotate: false
+  xy: 190, 176
+  size: 203, 63
+  orig: 203, 63
+  offset: 0, 0
+  index: -1
+blood
+  rotate: false
+  xy: 242, 4
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1
+bow
+  rotate: true
+  xy: 2, 3
+  size: 60, 178
+  orig: 60, 178
+  offset: 0, 0
+  index: -1
+fish_handle
+  rotate: true
+  xy: 372, 70
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 65
+  size: 186, 174
+  orig: 186, 174
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 394, 123
+  size: 74, 36
+  orig: 74, 36
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 296, 2
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
