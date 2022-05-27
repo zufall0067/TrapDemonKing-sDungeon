@@ -7,6 +7,8 @@ public class NoteManager : MonoBehaviour
     public int bpm = 0;
     double currentTime = 0d;
 
+    TimingManager timingManager;
+
     [SerializeField] Transform tfNoteAppear = null;
     [SerializeField] GameObject goNote = null;
     [SerializeField] Transform parentObject = null;
